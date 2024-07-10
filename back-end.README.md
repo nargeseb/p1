@@ -1,0 +1,1 @@
+The back-end of a website or application is the part that users don't see. It works behind the scenes to manage data, servers, and communications. Simply put, the back-end is like the brain of a system, handling all the complex, hidden tasks to ensure that what the user sees works correctly.
